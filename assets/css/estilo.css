@@ -1,35 +1,70 @@
 .banner{
-    background: url('../img/reus.jpg');
+    background: url('../img/header-spfc-3.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 50vh;
 }
 
 .perfil {
-    border-radius: 50%;
-    border: #fff solid 0.5rem;
+    border-radius: 70% !important;
+    border: #000000 solid 0.5rem;
+    height: 50% !important;
+
+}
+
+.myName {
+    font-family: 'Dosis', sans-serif;
+    font-size: 4rem;
+    color:#fff;
+    font-weight: 600;
 }
 
 
 
-@media (max-width: 575.98px) { 
-    .banner{
+@media (max-width: 576px) { 
+.banner {
         background-position: right;
         height: 100vh;
     }
-    
+}
 
+.perfil {
+    height: 100%;
+}
+
+.myName {
+    font-family: 'Dosis', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 300;
+    text-align: center;
 }
 
 
-@media (max-width: 767.98px) {  }
+@media (max-width: 768px) and (max-width: 1200px) { 
+.banner {
+        background-position: right;
+        height: 100vh;
+        }
+    }
+        
+.perfil {
+    height: 100%;
+}
+
+.habilidade {
+    color:rgb(42, 8, 233);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.historico {
+    color:rgb(42, 8, 233);
+}
+
+@media (max-width: 992px) {  }
 
 
-@media (max-width: 991.98px) {  }
+@media (max-width: 1200px) {  }
 
 
-@media (max-width: 1199.98px) {  }
-
-
-@media (max-width: 1399.98px) { }
+@media (max-width: 1400px) { }
