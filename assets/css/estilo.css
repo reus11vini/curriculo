@@ -3,7 +3,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 40vh;
+    height: 35vh;
 }
 
 .perfil {
@@ -14,30 +14,21 @@
 }
 
 .myName {
-    font-family: 'Dosis', sans-serif;
-    font-size: 4rem;
-    color:#fff;
-    font-weight: 600;
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20%;
+
 }
 
-
+h4{
+    font-weight: 500;
+}
 
 @media (max-width: 576px) { 
 .banner {
         background-position: right;
         height: 100vh;
     }
-}
-
-.perfil {
-    height: 100%;
-}
-
-.myName {
-    font-family: 'Dosis', sans-serif;
-    font-size: 2.5rem;
-    font-weight: 300;
-    text-align: center;
 }
 
 
@@ -53,18 +44,18 @@
 }
 
 .habilidade {
-    color:rgb(42, 8, 233);
-    font-family: 'Times New Roman', Times, serif;
+    color:rgb(0, 0, 0);
+    font-family: 'fantasy' sans-serif;
 }
 
 .historico {
-    color:rgb(42, 8, 233);
+    color:rgb(0, 0, 0);
 }
+
 
 @media (max-width: 992px) {  }
 
 
-@media (max-width: 1200px) {  }
-
+@media (max-width: 1200px) { }
 
 @media (max-width: 1400px) { }
