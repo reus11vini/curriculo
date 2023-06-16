@@ -1,15 +1,15 @@
 .banner{
-    background: url('../img/header-spfc-3.jpg');
+    background: url('../img/header-spfc-twitter.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 35vh;
+    height: 40vh;
 }
 
 .perfil {
     border-radius: 70% !important;
     border: #000000 solid 0.5rem;
-    height: 50% !important;
+    height: 55% !important;
 
 }
 
