@@ -54,6 +54,9 @@ h4{
     font-family: 'fantasy' sans-serif;
 }
 
+.color-bar{
+    background-color: rgb(192, 85, 241);
+}
 
 @media (max-width: 992px) {  }
 
