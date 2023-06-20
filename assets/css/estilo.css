@@ -8,7 +8,7 @@
 
 .perfil {
     border-radius: 70% !important;
-    border: #000000 solid 0.5rem;
+    border: #000000 solid 0.4rem;
     height: 55% !important;
 
 }
@@ -16,8 +16,8 @@
 .myName {
     font-size: 3rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-top: 20%;
-
+    margin-top: 40%;
+    height: 100%;
 }
 
 h4{
@@ -48,8 +48,10 @@ h4{
     font-family: 'fantasy' sans-serif;
 }
 
+
 .historico {
     color:rgb(0, 0, 0);
+    font-family: 'fantasy' sans-serif;
 }
 
 
