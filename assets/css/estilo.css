@@ -1,5 +1,5 @@
 .banner{
-    background: url('../img/header-spfc-twitter.jpg');
+    background: url('../img/header.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -9,7 +9,7 @@
 .perfil {
     border-radius: 70% !important;
     border: #000000 solid 0.4rem;
-    height: 55% !important;
+    height: 70% !important;
 
 }
 
@@ -55,7 +55,7 @@ h4{
 }
 
 .color-bar{
-    background-color: rgb(192, 85, 241);
+    background-color: #8792c0;
 }
 
 @media (max-width: 992px) {  }
